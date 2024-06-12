@@ -1,5 +1,5 @@
 <h1 align="center">Hola 🙋‍♂️🙋‍♂️🙋‍♂️, mi nombre es José Rengifo</h1>
-<h3 align="center">Soy Profesor de Matemáticas y desarrollador web junior salido del curso de SOY HENRY</h3>
+<h3 align="center">Soy Profesor de Matemáticas y desarrollador web junior graduado de la academia SOY HENRY</h3>
 
 - 🌱Actualmente estoy aprendiendo **Figma, Javascript, react, redux, Express, Sequelize, css, node.js**
 
